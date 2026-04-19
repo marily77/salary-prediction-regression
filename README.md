@@ -4,6 +4,8 @@
 
 This project focuses on building a regression model to predict employee salaries based on available features.
 
+We selected features that are most likely to influence salary, such as age and years since joining.
+
 The goal is to demonstrate a complete machine learning workflow, from data preparation to model training and evaluation.
 
 ---
@@ -48,6 +50,12 @@ The data was cleaned and prepared before applying the machine learning model.
 4. Train regression model
 5. Evaluate model performance
 
+---
+
+##  Model Performance
+- R² score: X
+- Mean Squared Error: X
+  
 ---
 
 ##  Results
